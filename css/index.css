@@ -21,13 +21,13 @@
 }
 
 #screen1 {
-  background-color: blue;
+#  background-color: blue;
   height: 300px;
   width:  300px;
   position:relative;
 }
 #screen2 {
-  background-color: green;
+#  background-color: green;
   height: 300px;
   width:300px;
   position:relative;

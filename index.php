@@ -8,20 +8,24 @@
 </head>
 <body>
 <!--<div class="container">-->
-<nav class="navbar navbar-default">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="#">KulTutor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    </div>
-    <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
-      <li><a href="#">link1</a></li>
-      <li><a href="#">link2</a></li>
-      <li><a href="#">link3</a></li>
-    </ul>
-  </div>
-</nav>
-
+<div class="navbar navbar-default">
+	<nav class="navbar navbar-default navbar-fixed-top">
+	<!--<nav class="navbar navbar-default navbar-static-top">-->
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="#">KulTutor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+			</div>
+			<ul class="nav navbar-nav">
+				<li class="active"><a href="#">Home</a></li>
+				<li><a href="#">link1</a></li>
+				<li><a href="#">link2</a></li>
+				<li><a href="#">link3</a></li>
+				<li class="active"><a href="#">Login</a></li>
+			</ul>
+		</div>
+	</nav>
+	</nav>
+</div>
 <div class="navbar navbar-inverse navbar-fixed-left col-lg-4">
 	<!--<div class="container">-->
 	<ul class="nav navbar-nav">
@@ -49,13 +53,13 @@
 				<div class="row">
 					<div class="col-md-4">
 						<!-- PAGE 1 HERE --> 
-						<iframe src="https://www.youtube.com/embed/pX2_JxVRzBM" allowfullscreen></iframe>
+						<iframe style="width:200% ; height:35%" src="https://www.youtube.com/embed/pX2_JxVRzBM" allowfullscreen></iframe>
 						<p>Time Rate and Distance Questions</p>
 					</div>
 					<div class=col-md-4></div>
 				    <div class="col-md-4">
 						<!-- PAGE 2 HERE -->  
-						<iframe src="https://www.youtube.com/embed/pX2_JxVRzBM" allowfullscreen></iframe>
+						<iframe style="width:200% ; height:35%" src="https://www.youtube.com/embed/pX2_JxVRzBM" allowfullscreen></iframe>
 						<p>Time Rate and Distance Questions</p>
 					</div>
 				</div>
@@ -63,13 +67,13 @@
 				<div class="row ">
 					<div class="col-md-4">
 						<!-- PAGE 3 HERE --> 
-						<iframe src="https://www.youtube.com/embed/pX2_JxVRzBM" allowfullscreen></iframe>
+						<iframe style="width:200% ; height:35%" src="https://www.youtube.com/embed/pX2_JxVRzBM" allowfullscreen></iframe>
 						<p>Time Rate and Distance Questions</p>
 					</div>
 					<div class=col-md-4></div>
 					<div class="col-md-4">
 						<!-- PAGE 4 HERE -->  
-						<iframe src="https://www.youtube.com/embed/pX2_JxVRzBM" allowfullscreen></iframe>
+						<iframe style="width:200% ; height:35%" src="https://www.youtube.com/embed/pX2_JxVRzBM" allowfullscreen></iframe>
 						<p>Time Rate and Distance Questions</p>
 					</div>
 				</div>
